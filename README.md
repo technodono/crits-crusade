@@ -1,5 +1,6 @@
 # crits-crusade.github.io
 A website hosting the CRITS Campaign for warhammer!
 
-# BIG test
-- small test!
+# Current status
+![image](https://github.com/technodono/crits-crusade/assets/22761234/eb213091-a0c7-40ee-aa34-78392351eabe)
+
